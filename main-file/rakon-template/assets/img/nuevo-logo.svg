@@ -1,0 +1,36 @@
+<svg width="1000" height="425" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient-1" y2="96.7175267%" x2="50%" y1="-352.925786%" x1="50%">
+   <stop offset="0%" stop-color="#002E3B"/>
+   <stop offset="100%" stop-color="#002639"/>
+  </linearGradient>
+  <linearGradient id="linearGradient-2" y2="428.758892%" x2="50%" y1="-2.80786187%" x1="50%">
+   <stop offset="0%" stop-color="#002E3B"/>
+   <stop offset="100%" stop-color="#002639"/>
+  </linearGradient>
+  <radialGradient id="radialGradient-3" r="295.57111%" fy="142.999709%" fx="16.4234038%" cy="142.999709%" cx="16.4234038%">
+   <stop offset="0%" stop-color="#00BC85"/>
+   <stop offset="100%" stop-color="#149D91"/>
+  </radialGradient>
+  <radialGradient id="radialGradient-4" r="357.003966%" fy="-42.999755%" fx="16.423338%" cy="-42.999755%" cx="16.423338%">
+   <stop offset="0%" stop-color="#00BC85"/>
+   <stop offset="100%" stop-color="#149D91"/>
+  </radialGradient>
+  <radialGradient id="radialGradient-5" r="343.189366%" fy="-40.4580495%" fx="11.4670327%" cy="-40.4580495%" cx="11.4670327%">
+   <stop offset="0%" stop-color="#004473"/>
+   <stop offset="100%" stop-color="#00345F"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path id="svg_2" fill="url(#linearGradient-1)" d="m65.69923,330.30064l-65.5915,32.0838l127.29256,62.0004l127.63905,-62.19503l-65.75882,-32.53854l-61.92847,30.75344l-61.65282,-30.10407z"/>
+   <path id="svg_3" fill="url(#linearGradient-2)" d="m57.602,98.17488l0,-0.0207l69.92927,-34.10654l69.93444,34.10654l57.53818,-35.95554l-127.51919,-62.19864l-127.4847,62.17966l0,0.0552l57.5537,35.96416l0.0483,-0.02414l0,0z"/>
+   <path id="svg_4" fill="url(#radialGradient-3)" d="m0.15618,298.42843l62.91498,-30.80379l64.71363,32.04262l-127.62861,62.79471l0,-64.03354z"/>
+   <path id="svg_5" fill="url(#radialGradient-4)" d="m196.67754,99.41032c0,33.58917 0,100.76752 0,100.76752l-70.34128,34.4238l64.68617,32.33897l62.97849,-30.79688l-0.00001,-173.95295l-57.32337,35.97581l0,1.24373z"/>
+   <path id="svg_6" fill="url(#radialGradient-5)" d="m255.00389,298.2165l-197.41491,-98.25059l0,-101.78437l-57.58898,-35.9513l0,0.90728l0,172.79428l255.00389,126.32169l0,-64.03699z"/>
+  </g>
+  <text xml:space="preserve" text-anchor="start" font-family="'Antonio'" font-size="160" id="svg_11" y="200" x="298" stroke-width="0" stroke="#000" fill="#000000">Mis</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Antonio'" font-size="160" id="svg_12" y="365" x="298" stroke-width="0" stroke="#000" fill="#000000">Ganancias.</text>
+ </g>
+</svg>
